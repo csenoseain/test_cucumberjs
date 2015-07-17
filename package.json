@@ -1,0 +1,26 @@
+{
+  "name": "cucumberjs",
+  "version": "0.0.0",
+  "description": "POC cucumber",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "~1.10.0",
+    "fs": "~0.0.2",
+    "sanitize-filename": "~1.1.1",
+    "selenium-webdriver": "~2.44.0",
+    "zombie": "~2.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/csenoseain/test_cucumberjs"
+  },
+  "author": "Celeste Senoseain",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/csenoseain/test_cucumberjs/issues"
+  }
+}
